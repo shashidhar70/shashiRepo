@@ -1,6 +1,7 @@
 public class second{
 	public void mi(){
-	
+	int f;
+int b;
 
 	}
 
@@ -8,5 +9,6 @@ public class second{
 	int i=0;
 	int j=0;
 	int k=0;
+	
 	}
 }
