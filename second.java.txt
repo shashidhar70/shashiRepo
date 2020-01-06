@@ -1,7 +1,11 @@
 public class second{
 	public void mi(){
+
 	int f;
 int b;
+
+	abc
+	xyz
 
 	}
 
