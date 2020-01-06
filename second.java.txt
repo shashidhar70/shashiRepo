@@ -1,0 +1,11 @@
+public class second{
+	public void mi(){
+	
+
+	}
+
+	public void m2(){
+
+
+	}
+}
