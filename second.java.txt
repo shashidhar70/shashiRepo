@@ -3,7 +3,15 @@ public class second{
 
 	int f;
 int b;
+
+
+	abc
+	xyz
+	rod
+
 add;
+sub;
+ 
 
 	}
 
