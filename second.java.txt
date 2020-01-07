@@ -3,7 +3,7 @@ public class second{
 
 	int f;
 int b;
-
+add;
 
 	}
 
