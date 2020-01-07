@@ -10,7 +10,12 @@ int b;
 	rod
 
 add;
+
 div;
+
+sub;
+mul;
+
  
 
 	}
