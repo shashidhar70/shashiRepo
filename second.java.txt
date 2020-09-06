@@ -1,5 +1,5 @@
 public class second{
-	public void mi(){
+	public void m1(){
 
 	int f;
 int b;
