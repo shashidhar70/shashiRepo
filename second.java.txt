@@ -2,6 +2,7 @@ public class second{
 	public void m5(){
 
 	int f1;
+int f3;
 int b;
 
 
