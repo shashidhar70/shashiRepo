@@ -1,7 +1,7 @@
 public class second{
 	public void m5(){
 
-	int f;
+	int f1;
 int b;
 
 
