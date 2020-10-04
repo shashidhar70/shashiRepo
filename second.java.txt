@@ -3,8 +3,6 @@ public class second{
 
 	int f1;
 	int f3;
-int b;
-
 
 	abc
 	xyz
